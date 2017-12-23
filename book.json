@@ -1,5 +1,5 @@
 {
-	"author": "Dai Xufei",
+	"author": "Achilles Dai",
 	"title": "Control Theory",
 	"desription": "Motor Control and UAV Control",
 	"plugins": ["prism", "katex", "include-codeblock"], 
