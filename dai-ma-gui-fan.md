@@ -3,7 +3,12 @@
 水床效应(the waterbed effect):
 对于一个线性时不变(LTI)的SISO系统，其灵敏度传递函数如下所示，其中L(s)为系统的开环传递函数。
 
- 
+ $$a \ne 0$$  
+$$a \ne 0$$  
+$$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$$  
+$$f(x_1,x_2)=x_1^2+x_2^2$$
+
+
 
 若闭环传递函数稳定，则由Bode's Intergral Theorem可知：
 
