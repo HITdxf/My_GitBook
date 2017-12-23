@@ -1,0 +1,15 @@
+{
+	"author": "Dai Xufei",
+	"title": "Control Theory",
+	"desription": "Motor Control and UAV Control",
+	"plugins": ["prism", "katex", "include-codeblock"], 
+	"pluginsConfig": {
+        "include-codeblock": {
+            "template": "ace",
+            "unindent": true,
+            "theme": "monokai"
+        }
+    }
+}
+
+
